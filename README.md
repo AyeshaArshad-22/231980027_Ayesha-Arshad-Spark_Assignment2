@@ -8,8 +8,11 @@ This project demonstrates large-scale data analytics using **Apache Spark (PySpa
 
 * **Dataset:** NYC Yellow Taxi Trip Records (January 2024)
 * **Format:** Parquet
-* **Source:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+* **Source:** [https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+File:
+yellow_tripdata_2024-01.parquet)
 ## Technologies Used
 
 * Python 3.x
