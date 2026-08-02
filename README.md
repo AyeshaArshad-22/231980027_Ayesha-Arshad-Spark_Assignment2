@@ -64,7 +64,7 @@ This project demonstrates large-scale data analytics using **Apache Spark (PySpa
 3. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AyeshaArshad-22/231980027_Ayesha-Arshad-Spark_Assignment2/tree/main
    ```
 4. Open `Spark_Assignment.ipynb` in Jupyter Notebook.
 5. Update the dataset path if necessary.
